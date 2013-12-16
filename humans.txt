@@ -1,0 +1,40 @@
+/* TEAM */
+	Chief, UI developer, Web designer: Gustavo Insaurralde
+	Site: 
+	Contact: 
+	From: 
+	
+	Chief, UI developer, Web designer: Fernando Mumbach
+	Sites:
+	  - https://plus.google.com/108900106524286094162/about
+	  - http://twitter.com/fermuch
+	  - http://facebook.com/fernando.mumbach
+	Contacts:
+	  - fermuch@rchitservice.com.ar
+	  - @fermuch
+	From: Paso de los Libres, Corrientes, Argentina	
+	
+	Chief, UI developer, Web designer: Alejandro Molina
+	Site: 
+	Contact: 
+	From: 
+	
+	Chief, UI developer, Web designer: Iván Gabriel Sosa
+	Site: https://plus.google.com/102835199889093755276/about
+	Contact: ivangsosa@gmail.com
+	From: Paso de los Libres, Corrientes, Argentina
+
+	Beta Tester, Reviewer and Suggestor: 
+	Site: 
+	Contact: 
+	From: 
+
+/* THANKS TO */
+
+/* SITE */
+	Last update: 2013/12/16
+	Language: Spanish
+	Doctype: HTML
+	Standards: HTML, HTML5, Javascript, CSS
+	IDE: Geany
+	Software: Twitter's Bootstrap, JQuery, JQuery UI, Font-Awesome, HTML5Shiv
