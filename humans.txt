@@ -32,9 +32,9 @@
 /* THANKS TO */
 
 /* SITE */
-	Last update: 2013/12/16
+	Last update: 2014/08/27
 	Language: Spanish
 	Doctype: HTML
 	Standards: HTML, HTML5, Javascript, CSS
 	IDE: Geany
-	Software: Twitter's Bootstrap, JQuery, JQuery UI, Font-Awesome, HTML5Shiv
+	Software: Bootstrap, JQuery, JQuery UI, Font-Awesome, HTML5Shiv
