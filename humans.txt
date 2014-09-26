@@ -32,7 +32,7 @@
 /* THANKS TO */
 
 /* SITE */
-	Last update: 2014/08/27
+	Last update: 2014/09/26
 	Language: Spanish
 	Doctype: HTML
 	Standards: HTML, HTML5, Javascript, CSS

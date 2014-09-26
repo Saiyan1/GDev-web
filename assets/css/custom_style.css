@@ -1,0 +1,72 @@
+/* 
+ * Media queries references (Responsive CSS)
+ * 
+ * Large desktop: @media (min-width: 980px) and (max-width: 1200px) {}
+ * Portrait tablet to landscape and desktop: @media (min-width: 768px) and (max-width: 979px) {}
+ * Landscape phone to portrait tablet: @media (max-width: 767px) {}
+ * Landscape phones and down: @media (max-width: 480px) {}
+ * 
+ * */
+
+/********** ----- BODY ----- **********/
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+	/*padding-top: 60px;
+	padding-bottom: 20px;*/
+	margin: 0 0 100px; /* bottom = footer height */
+	background: -webkit-linear-gradient(90deg, #348F50 10%, #56B4D3 90%); /* Chrome 10+, Saf5.1+ */
+	background:    -moz-linear-gradient(90deg, #348F50 10%, #56B4D3 90%); /* FF3.6+ */
+	background:     -ms-linear-gradient(90deg, #348F50 10%, #56B4D3 90%); /* IE10 */
+	background:      -o-linear-gradient(90deg, #348F50 10%, #56B4D3 90%); /* Opera 11.10+ */
+	background:         linear-gradient(90deg, #348F50 10%, #56B4D3 90%); /* W3C */
+}
+
+/********** ----- FOOTER ----- **********/
+
+footer {
+	background-color: #f5f5f5;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 60px;
+    width: 100%;
+}
+
+footer > .container .credit {
+	margin: 20px 0;
+}
+
+/********** ----- ESTILOS VARIOS ----- **********/
+
+.text-red {
+	color: #D9241C; 
+}
+
+.text-white { 
+	color: #fff; 
+}
+
+.text-sky-blue { 
+	color: #009BFF;
+}
+
+.text-gray {
+	color: #888;
+}
+
+.pointer { 
+	cursor:pointer; 
+}
+
+.popover .popover-title {
+    font-weight: bold;
+}
+
+.ul-nav-pills {
+	margin-bottom: 20px;
+}
